@@ -1,0 +1,23 @@
+{
+  "name": "examenseminariosoftware",
+  "version": "1.0.0",
+  "description": "Examen Seminario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoRodriguezM/examenSeminarioSoftware.git"
+  },
+  "keywords": [
+    "exmane"
+  ],
+  "author": "MarcoR.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoRodriguezM/examenSeminarioSoftware/issues"
+  },
+  "homepage": "https://github.com/MarcoRodriguezM/examenSeminarioSoftware#readme"
+}
