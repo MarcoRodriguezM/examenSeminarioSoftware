@@ -15,6 +15,7 @@ exports.calcular = (capital, tasaInteres, plazo) => {
         interes = Number(saldoFinal) * Number(tasaInteresDecimal);
         interes = interes.toFixed(2);
         saldoFinal += Number(interes);
+        saldoFinal = Number(saldoFinal.toFixed(2));
         mes++;
         datosTablaInteres.push({
             mes,
